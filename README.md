@@ -29,14 +29,4 @@ The main goal is to implement a dashboard using JPMorgan Chase's Perspective dat
 6. **Profitability Check:**
    - Track the performance of the trade to ensure profitability, especially when the two stock prices subsequently converge.
 
-## Resources
 
-- [JPMorgan Chase's Perspective](link_to_perspective_docs) - Explore the documentation for Perspective data visualization software.
-
-## Getting Started
-
-Follow these steps to set up and run the project:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CodeWithSwatii/stock-correlation-dashboard.git
